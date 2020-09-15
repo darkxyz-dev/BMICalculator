@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.exe
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.deps.json
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.runtimeconfig.json
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.dll
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\bin\Debug\netcoreapp3.1\BMICalculaor.pdb
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.dll
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.pdb
+C:\Users\opilane\source\repos\BMICalculaor\BMICalculaor\obj\Debug\netcoreapp3.1\BMICalculaor.genruntimeconfig.cache
